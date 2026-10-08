@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "..\ExDll\exdll.h"
+#include "exdll.h"
 #include <Richedit.h>
 
 /**
